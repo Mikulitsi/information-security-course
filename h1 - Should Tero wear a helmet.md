@@ -58,7 +58,7 @@ Big gaming company named MK Games.
 
 ### What can go wrong?
    - Hackers are targeting us as we're a big gaming company and have lots of data which they can use to get money.
-   - Hackers might try DDossing to cause harm to the company especially during holiday seasons when most people are home.
+   - Hackers might try a DDoS attack to cause harm to the company especially during holiday seasons when most people are home. This would lead to people not being able to play our games and causing massive harm in reputation. 
 
 ### What are we going to do about it?
 
@@ -73,3 +73,4 @@ Big gaming company named MK Games.
 - "World's Shortest Threat Modeling Course" Youtube, Adam Shostack, https://www.youtube.com/playlist?list=PLCVhBqLDKoOOZqKt74QI4pbDUnXSQo0nf
 - OWASP CheatSheets Series Team 2021, https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html
 - "Modding Your Switch Can Land You In Prison🎙Darknet Diaries Ep. 136: Team Xecuter" Youtube - Darknet Diaries, Jack Rhysider, https://www.youtube.com/watch?v=E0ihjLKM0QI&list=PLtN43kak3fFEEDNo0ks9QVKYfQpT2yUEo&index=105
+- Israel, Aliza. “It’s Christmas for the Hackers, Too! DDoS in the Holiday Season.” MazeBolt Blog, 4 Nov. 2024, mazebolt.com/blog/its-christmas-for-the-hackers-too-ddos-in-the-holiday-season.
