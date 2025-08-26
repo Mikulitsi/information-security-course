@@ -26,7 +26,7 @@
 
 ### Darknet Diaries Ep. 136: Team Xecuter
 
-- Main topic of the episode is about modding games and how companies are trying to prevent that.
+- Main topic of the episode is about modding consoles and how companies are trying to prevent that.
 - This episode focused on Team Xecuter, a hacking group.
 - They interviewed Gary Bowser, a key figure in the mod chip and console hacking scene.
 - Gary had a career in developing software and hardware.
