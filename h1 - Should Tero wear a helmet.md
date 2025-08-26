@@ -50,6 +50,20 @@
 
 ## b) Make-belief boogie-man
 
+Big gaming company named MK Games.
+
+### What are we working on?
+   - Due to being a big gaming company we have a lot of customers and data.
+   - Reputation is really important so security measures must be good to keep paying customers/playerbase.
+
+### What can go wrong?
+   - Hackers are targeting us as we're a big gaming company and have lots of data which they can use to get money.
+   - Hackers might try DDossing to cause harm to the company especially during holiday seasons when most people are home.
+
+### What are we going to do about it?
+
+ 
+### Did we do a good enough job?
 
 
 ## References
