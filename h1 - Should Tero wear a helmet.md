@@ -15,15 +15,26 @@
 ### Shostack 2022
 
 - STRIDE categorises risks into: Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service and Elevation of Privileges.
-- 
+- Risk management and threat modeling go together. Risk management calculates the likelihood and effect of a threat. It helps to determine the best actions to take regarding a threat, but we must do threat modeling first.
 
 ### OWASP CheatSheets Series Team 2021
 
-
+- Threat modeling should be done early in the software development life cycle.
+- Threat modeling is usually a team effort where members are encouraged to share ideas and give feedback to one another.
 
 ## Infosec scene
 
+### Darknet Diaries Ep. 136: Team Xecuter
 
+- Main topic of the episode is about modding games and how companies are trying to prevent that.
+- This episode focused on Team Xecuter, a hacking group.
+- They interviewed Gary Bowser, a key figure in the mod chip and console hacking scene.
+- Gary had a career in developing software and hardware.
+- He transitioned into repairing and modifying consoles like the PS1 and Xbox. He was fascinated by their restricted design when compared to early computers.
+- Gary worked with MAXiMiLiEN, who was a piracy group leader and later became a mod chip businessman. Together, they promoted and sold tools like the SX Pro, which allowed people to hack the Nintendo Switch.
+- Nintendo and Sony started to enforce anti-modding measures.
+- Gary was later arrested by the FBI.
+- Even in the current day, Nintendo aggressively protects its IP with them sending cease and desist letters and threatening legal action to cancel Super Smash Bros. Melee tournaments to seemingly protect their brand.
 
 ## a) Security hygiene
 
@@ -43,6 +54,8 @@
 
 ## References
 
-Karvinen 2024: Information Security Course, https://terokarvinen.com/information-security/
-Threat Modeling Manifesto, https://www.threatmodelingmanifesto.org/
-“World’s Shortest Threat Modeling Course” Youtube, Adam Shostack, https://www.youtube.com/playlist?list=PLCVhBqLDKoOOZqKt74QI4pbDUnXSQo0nf
+- Karvinen 2024: Information Security Course, https://terokarvinen.com/information-security/
+- Threat Modeling Manifesto, https://www.threatmodelingmanifesto.org/
+- "World's Shortest Threat Modeling Course" Youtube, Adam Shostack, https://www.youtube.com/playlist?list=PLCVhBqLDKoOOZqKt74QI4pbDUnXSQo0nf
+- OWASP CheatSheets Series Team 2021, https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html
+- "Modding Your Switch Can Land You In Prison🎙Darknet Diaries Ep. 136: Team Xecuter" Youtube - Darknet Diaries, Jack Rhysider, https://www.youtube.com/watch?v=E0ihjLKM0QI&list=PLtN43kak3fFEEDNo0ks9QVKYfQpT2yUEo&index=105
