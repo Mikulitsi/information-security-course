@@ -33,7 +33,7 @@
 - He transitioned into repairing and modifying consoles like the PS1 and Xbox. He was fascinated by their restricted design when compared to early computers.
 - Gary worked with MAXiMiLiEN, who was a piracy group leader and later became a mod chip businessman. Together, they promoted and sold tools like the SX Pro, which allowed people to hack the Nintendo Switch.
 - Nintendo and Sony started to enforce anti-modding measures.
-- Gary was later arrested by the FBI.
+- Gary was later arrested.
 - Even in the current day, Nintendo aggressively protects its IP with them sending cease and desist letters and threatening legal action to cancel Super Smash Bros. Melee tournaments to seemingly protect their brand.
 
 ## a) Security hygiene
@@ -90,7 +90,7 @@ Security must always be improved as new methods to breach will be found so while
 - Armer Michael, 4 Ways to Always Be Improving Security. The Enterprisers Project, 2020, https://www.enterprisersproject.com/article/2020/6/security-4-tips-constant-improvement.
 - Israel Aliza, It’s Christmas for the Hackers, Too! DDoS in the Holiday Season. MazeBolt Blog 2024, https://www.mazebolt.com/blog/its-christmas-for-the-hackers-too-ddos-in-the-holiday-season.
 - Karvinen 2024: Information Security Course, https://terokarvinen.com/information-security/
-- "Modding Your Switch Can Land You In Prison - Darknet Diaries Ep. 136: Team Xecuter" Youtube - Darknet Diaries, Jack Rhysider, https://www.youtube.com/watch?v=E0ihjLKM0QI
+- Modding Your Switch Can Land You In Prison - Darknet Diaries Ep. 136: Team Xecuter" Youtube - Darknet Diaries, Jack Rhysider, https://www.youtube.com/watch?v=E0ihjLKM0QI
 - OWASP CheatSheets Series Team 2021, https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html
 - Threat Modeling Manifesto, https://www.threatmodelingmanifesto.org/
 - World's Shortest Threat Modeling Course, Youtube, Adam Shostack, https://www.youtube.com/playlist?list=PLCVhBqLDKoOOZqKt74QI4pbDUnXSQo0nf
