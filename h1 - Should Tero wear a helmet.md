@@ -58,19 +58,39 @@ Big gaming company named MK Games.
 
 ### What can go wrong?
    - Hackers are targeting us as we're a big gaming company and have lots of data which they can use to get money.
-   - Hackers might try a DDoS attack to cause harm to the company especially during holiday seasons when most people are home. This would lead to people not being able to play our games and causing massive harm in reputation. 
+   - Hackers might try a DDoS attack to cause harm to the company especially during holiday seasons when most people are home. This would lead to people not being able to play our games and causing massive harm in reputation.
+   - In case of customers who pre-order games, hackers might try to access game files before the game is released and leak the files to the public. This could possibly cause customers to get disappointed if the game is not like they expected it to be which can lead to customers cancelling their pre-orders and so, company loses money.
+   - Specifically applying STRIDE:
+      - Spoofing
+        - Hackers pretending to be admin to gain access.
+      - Tampering
+        - Hackers leak game files that aren't supposed to be public.
+      - Repudiation
+        - Hackers deny their action to escape consequences
+      - Information Disclosure
+        - Hackers steal customer data or leak unreleased game content to public.
+      - Denial of Service
+        - DDoS attacks that overwhelm game servers and making games unplayable during peak times.
+      - Elevation of Privileges
+        - Hackers take advantage of weaknesses to increase their permissions to look at files that they shouldn't be able to see.
 
 ### What are we going to do about it?
-
+- Use META model (Mitigate, Eliminate, Transfer, Accept) to increase security.
+- Implement DDoS protection services to detect and block attacks before they affect players.
+- Use encryption and multi-factor authentication to protect sensitive customer data and game files. This helps to stop unauthorized access.
+- Educate employees on security awareness (for example not to click on links on emails unless it's authorized).
+- Making sure all systems are up to date with security measures.
+- Something we have to accept is that no system is 100% safe.
  
 ### Did we do a good enough job?
-
+Security must always be improved as new methods to breach will be found so while we might have done a good job for now, it won't be enough in the future.
 
 ## References
 
+- Armer Michael, 4 Ways to Always Be Improving Security. The Enterprisers Project, 2020, https://www.enterprisersproject.com/article/2020/6/security-4-tips-constant-improvement.
+- Israel Aliza, It’s Christmas for the Hackers, Too! DDoS in the Holiday Season. MazeBolt Blog 2024, https://www.mazebolt.com/blog/its-christmas-for-the-hackers-too-ddos-in-the-holiday-season.
 - Karvinen 2024: Information Security Course, https://terokarvinen.com/information-security/
-- Threat Modeling Manifesto, https://www.threatmodelingmanifesto.org/
-- "World's Shortest Threat Modeling Course" Youtube, Adam Shostack, https://www.youtube.com/playlist?list=PLCVhBqLDKoOOZqKt74QI4pbDUnXSQo0nf
+- "Modding Your Switch Can Land You In Prison - Darknet Diaries Ep. 136: Team Xecuter" Youtube - Darknet Diaries, Jack Rhysider, https://www.youtube.com/watch?v=E0ihjLKM0QI
 - OWASP CheatSheets Series Team 2021, https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html
-- "Modding Your Switch Can Land You In Prison🎙Darknet Diaries Ep. 136: Team Xecuter" Youtube - Darknet Diaries, Jack Rhysider, https://www.youtube.com/watch?v=E0ihjLKM0QI&list=PLtN43kak3fFEEDNo0ks9QVKYfQpT2yUEo&index=105
-- Israel, Aliza. “It’s Christmas for the Hackers, Too! DDoS in the Holiday Season.” MazeBolt Blog, 4 Nov. 2024, mazebolt.com/blog/its-christmas-for-the-hackers-too-ddos-in-the-holiday-season.
+- Threat Modeling Manifesto, https://www.threatmodelingmanifesto.org/
+- World's Shortest Threat Modeling Course, Youtube, Adam Shostack, https://www.youtube.com/playlist?list=PLCVhBqLDKoOOZqKt74QI4pbDUnXSQo0nf
