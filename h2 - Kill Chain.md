@@ -18,13 +18,14 @@
 
 ### Intrusion Kill Chain
 
-- Adapted from military doctrine to describe the lifecycle of a cyberattack.
-- Segments an intrusion into seven phases:
+- A "kill chain" is defined as a systematic means to find and attack an opponent in order to achieve a desired effect.
+- Term is adapted from military doctrine to describe the lifecycle of a cyberattack.
+- There are seven phases:
   - Reconnaissance
-    - Adversary learns about the target (e.g., target emails, infrastructure, personnel).
+    - Adversary learns about the target (infrastructure or personnel).
       
   - Weaponization
-    - Adversary packages exploit/code with a delivery mechanism (e.g., malware in document).
+    - Adversary packages exploit/code with a delivery mechanism (malware in document).
       
   - Delivery
     - Adversary sends exploit by email, web, or removable media.
@@ -39,23 +40,15 @@
     - Compromised system establishes a connection to the adversary for remote control.
       
   - Actions on Objectives
-    - Adversary executes their mission (e.g., data exfiltration, sabotage).
+    - Adversary executes their mission (sabotage).
 
 - Disrupting any phase severs the link and prevents the attack.
 - Allows defenders to move away from reactive security, to proactive.
-
-- A "kill chain" is defined as a systematic means to find and attack an opponent in order to achieve a desired effect.
-- The term "kill chain" is derived from U.S. military targeting doctrine. The U.S. Army performs targeting with a model that includes steps; find, fix, track, target, engage, and assess (F2T2EA). It is called a "chain" because any weakness at any stage can disrupt the entire process.
-- This paper presents a different kill chain model specific to computer network intrusions.
-- Part of the premise of that intrusion model is that an aggressor has to:
-  - develop a payload to compromise a trusted boundary,
-  - establish a presence inside a trusted domain,
-  - from that presence attain their targeted objectives (e.g., lateral movement, a consideration of confidentiality, integrity, or available).
  
 ## Tactics, tools & procedures
 
 ### Tactics
-Tactics define the “why” of an ATT&CK technique or sub-technique. It is the adversary’s tactical objective: the rationale for completing one or more actions. For instance, an adversary may want to achieve credential access. An example of a tactic is execution and an adversary trying to run a malicious code to steal data.
+Tactics define the “why” of an ATT&CK technique or sub-technique. It is the adversary’s tactical objective and the reason for completing one or more actions. An example of a tactic is execution and an adversary trying to run a malicious code to steal data.
 
 ### Techniques & sub-techniques
 Techniques are “how” an adversary maneuvers in order to obtain a tactical goal by performing an action. Sub-techniques are a more precise description of the adversarial behavior to achieve a goal. They describe behavior in a lower level than a technique. 
