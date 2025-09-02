@@ -71,7 +71,7 @@ Procedures refer to the specific way that the adversary implements a technique, 
 For example continuing with the example I gave in techniques, a procedure of a malware sub-technique could be a group which create malwares.
 
 # References
-- [Hutchins et al 2011: Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains, chapters Abstract, 3.2 Intrusion Kill Chain (https://lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf)
+- [Hutchins et al 2011: Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains, chapters Abstract, 3.2 Intrusion Kill Chain] (https://lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf)
 - https://attack.mitre.org/resources/faq/#general-faq
 - https://attack.mitre.org/tactics/TA0002/
 - https://attack.mitre.org/techniques/T1587/
