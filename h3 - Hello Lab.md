@@ -31,9 +31,11 @@ Thoughts:
 - Remove stuff with sudo apt-get purge command.
 
 Thoughts:
-  - We did a bit of Linux command line basics stuff in Intro to Infra & Cloud course during last spring but it's good to get repetition as without it, I forget these commands quickly.
+  - We did a bit of Linux command line basics stuff during one lesson in Intro to Infra & Cloud course during last spring but it's good to get repetition as without it, I forget these commands quickly.
 
 ## Can't Fish
+- Executed a ping command and added -c 10 to the command as without it Linux will continue to ping endlessly. Now it stops pinging after 10 attempts.
+
 <img width="665" height="332" alt="image" src="https://github.com/user-attachments/assets/c3c4aff3-20dd-4f35-967f-7b0c57df714c" />
 
 - Executed the same command after disabling network:
