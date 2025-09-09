@@ -11,13 +11,12 @@
 - In order to fix the small screen and enable copy and paste, you can install Virtual Box Guest Additions.
 
 
-  My personal experience:
+Thoughts:
   - I assigned 4GB of RAM to the VM and 60 GB disk space as my laptop's RAM is only 8GB. While it's not the fastest, it seemed to run well enough.
   - I did not run into the black screen bug but good to know about the xforcevesa trick if I do at some point or have friends that have that problem.
   
   
 ## Karvinen 2020: Command Line Basics Revisited
-- The command line is super old but still super useful.
 - pwd, ls, and cd to move around folders.
 - nano filename lets you edit files in the terminal.
 - mkdir, mv, cp, and rm are for making, moving, copying, and deleting stuff.
@@ -27,12 +26,12 @@
 - Use --help to learn what a command does.
 - history shows your past commands, and ctrl + R helps you search them.
 - Important folders: /home/, /etc/, /media/, /var/log/.
-- sudo gives you admin powers.
+- sudo gives you superuser/admin powers.
 - Install software with sudo apt-get install command.
 - Remove stuff with sudo apt-get purge command.
 
-  Thoughts:
-  - We did a bit of Linux command line basics stuff in Intro to Infra course during last spring but it's good to get repetition as without it, I will forget these commands quickly.
+Thoughts:
+  - We did a bit of Linux command line basics stuff in Intro to Infra & Cloud course during last spring but it's good to get repetition as without it, I forget these commands quickly.
 
 ## Can't Fish
 <img width="665" height="332" alt="image" src="https://github.com/user-attachments/assets/c3c4aff3-20dd-4f35-967f-7b0c57df714c" />
@@ -61,6 +60,16 @@
 <img width="680" height="577" alt="image" src="https://github.com/user-attachments/assets/b31b9c71-2e03-4a97-b174-145253fdf763" />
 
 ### Level 0 → Level 1
+<img width="845" height="211" alt="image" src="https://github.com/user-attachments/assets/8e8d7430-70c2-478a-bfe2-0f36e016f4d1" />
+
+### Level 1 → Level 2
+<img width="642" height="95" alt="image" src="https://github.com/user-attachments/assets/706bdd16-b664-40e1-b496-a1e74c65a3f9" />
+<img width="342" height="198" alt="image" src="https://github.com/user-attachments/assets/896dd217-498f-422b-acec-1327a7423457" />
+
+### Level 2 → Level 3
+<img width="586" height="267" alt="image" src="https://github.com/user-attachments/assets/f645bdd6-830a-41ba-809e-c4aa184237e7" />
+
+### Level 3 → Level 4
 
 
 ## Sources
@@ -72,3 +81,4 @@
 - https://labex.io/tutorials/nmap-how-to-scan-localhost-ports-418379
 - https://overthewire.org/wargames/bandit/
 - https://www.wikihow.com/Use-SSH
+- https://www.manageengine.com/products/eventlog/kb/linux/how-to-show-hidden-files-in-linux.html
