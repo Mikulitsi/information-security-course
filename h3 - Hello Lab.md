@@ -17,6 +17,9 @@ Thoughts:
   
   
 ## Karvinen 2020: Command Line Basics Revisited
+- sudo gives you superuser/admin powers.
+- Install software with sudo apt-get install command.
+- Remove stuff with sudo apt-get purge command.
 - pwd, ls, and cd to move around folders.
 - nano filename lets you edit files in the terminal.
 - mkdir, mv, cp, and rm are for making, moving, copying, and deleting stuff.
@@ -25,16 +28,12 @@ Thoughts:
 - scp is for copying files between computers.
 - Use --help to learn what a command does.
 - history shows your past commands, and ctrl + R helps you search them.
-- Important folders: /home/, /etc/, /media/, /var/log/.
-- sudo gives you superuser/admin powers.
-- Install software with sudo apt-get install command.
-- Remove stuff with sudo apt-get purge command.
 
 Thoughts:
   - We did a bit of Linux command line basics stuff during one lesson in Intro to Infra & Cloud course during last spring but it's good to get repetition as without it, I forget these commands quickly.
 
 ## Can't Fish
-- Executed a ping command and added -c 10 to the command as without it Linux will continue to ping endlessly. Now it stops pinging after 10 attempts.
+- Executed a ping command and added `-c 10` to the command as without it Linux will continue to ping endlessly. Now it stops pinging after 10 attempts.
 
 <img width="665" height="332" alt="image" src="https://github.com/user-attachments/assets/c3c4aff3-20dd-4f35-967f-7b0c57df714c" />
 
@@ -56,6 +55,9 @@ Thoughts:
 <img width="462" height="21" alt="image" src="https://github.com/user-attachments/assets/24d64c29-fa47-4f61-a161-1131b8a6355d" />
 <img width="1001" height="477" alt="image" src="https://github.com/user-attachments/assets/d15b375f-3261-4521-9711-ce0ec2787b08" />
 
+I started by installing and activating the Apache2 web server on my machine. I ran the command `sudo apt-get -y install apache2`, which enabled me to install it. Following the installation, I activated Apache using `sudo systemctl start apache2`. 
+
+Next, I performed a network scan on my local device using `sudo nmap -A localhost` to detect active services and gather system information.
 
 ## Bandit oh-five
 ### Level 0
