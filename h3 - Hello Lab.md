@@ -57,7 +57,8 @@ Thoughts:
 
 I started by installing and activating the Apache2 web server on my machine. I ran the command `sudo apt-get -y install apache2`, which enabled me to install it. Following the installation, I activated Apache using `sudo systemctl start apache2`. 
 
-Next, I performed a network scan on my local device using `sudo nmap -A localhost` to detect active services and gather system information.
+Next, I performed a network scan on my local device using `sudo nmap -A localhost` to detect active services and gather system information. 
+In comparison to the scan without daemon, I noticed that port 80 was open. There were also 999 closed ports in the scan without daemon compared to 998 closed ports in the daemon scan.
 
 ## Bandit oh-five
 ### Level 0
