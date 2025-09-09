@@ -70,6 +70,7 @@ Thoughts:
 <img width="586" height="267" alt="image" src="https://github.com/user-attachments/assets/f645bdd6-830a-41ba-809e-c4aa184237e7" />
 
 ### Level 3 → Level 4
+<img width="662" height="522" alt="image" src="https://github.com/user-attachments/assets/6d342043-12cf-4c34-8953-72ebb0a304d7" />
 
 
 ## Sources
