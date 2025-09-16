@@ -1,7 +1,58 @@
 # h4 Johnny Tables
 
-##
+## OWASP: OWASP 10 2021
 
+### A01:2021 - Broken Access Control
+ - A failure to enforce access control policies, which can allow unauthorized access, modification, or privilege escalation. 
+ - Common issues include:
+   - least privilege violations
+   - missing API method controls
+   - CORS misconfigurations
+ - To prevent these issues:
+   - deny by default (least privilege)
+   - rate limiting APIs
+   - removing sensitive files from web roots
+   - logging access control failures
+   - notifying administrators when necessary.
+
+### A05:2021 - Security Misconfiguration
+- App or environment is not safely configured, and may have weak configurations or default passwords still in use.
+- Common issues include:
+  - Leaving sample apps or default accounts active in a live environment.
+  - Running old or outdated versions and not applying security patches..
+- To prevent these issues:
+  - Have a secure setup process that is consistent across all environments.
+  - Remove anything unnecessary.
+  - Update and review configuration and permissions regularly.
+  - Apply security checks and use security headers automatically.
+- It is really important to prevent these issues as hackers can easily find and exploit weaknesses to steal data or take control of systems.
+    
+
+### A06:2021 - Vulnerable and Outdated Components
+- Common issues include:
+  - Use of components that have a publicly known exploit and are not currently patched.
+  - Dependencies that are no longer actively maintained or updated by their authors.
+  - Inclusion of third-party components without awareness of their security status.
+  - Components that expose sensitive data or functionality due to vulnerability.
+- To prevent these issues:
+  - Regularly update and patch components to the latest version.
+  - Use tools to check for known vulnerabilities.
+  - Test components in a pre-production controlled environment.
+
+### A03:2021 - Injection
+- Common issues include:
+  - SQL Injection: Malicious SQL queries inserted into input fields.
+  - Command Injection: Untrusted user input can be utilized to execute any arbitrary commands on the target system
+  - NoSQL Injection: Attacks targeting NoSQL databases.
+  - LDAP Injection: Input fields can be manipulated to allow attackers to write LDAP queries, which result in arbitrary commands being executed to the underlying operating system.
+  - OS Injection: Malicious injection of operating system commands.
+- To prevent these issues:
+  - Practice least privilege for any access to database or system..
+  - Conduct security testing specific emphasis on injection vulnerabilities.
+
+## Munroe
+- The comic focuses on SQL injection. Malicious code can be executed when user input is not properly sanitized.. 
+- Emphazises the means to clean and validate any data entered by a user before incorporating whatever the user input into a database query.  
 
 ## a) Goat. Install WebGoat 2023.4
 <img width="786" height="392" alt="image" src="https://github.com/user-attachments/assets/951f23a3-b549-4c9f-bf7e-3f015a3b1dc4" />
@@ -40,13 +91,19 @@
 
 <img width="1252" height="850" alt="image" src="https://github.com/user-attachments/assets/2dbc294c-4562-46ac-85cd-b3b5291bb7a0" />
 
+For me these tasks were really simple as I'm having a data management and databases course at the same time as this InfoSec course so I have knowledge of the some really basics SQL inputs.
+
 ## e) Portswigger Labs
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6144fbc7-f16d-438a-956b-0cc3692f54de" />
 
 # Sources
+- https://owasp.org/Top10/A01_2021-Broken_Access_Control/
+- https://owasp.org/Top10/A05_2021-Security_Misconfiguration/
+- https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components/
+- https://owasp.org/Top10/A03_2021-Injection/
+- https://xkcd.com/327/
 - https://terokarvinen.com/2023/webgoat-2023-4-ethical-web-hacking/
 - https://www.manageengine.com/patch-management/debian-updates.html
 - https://sqlzoo.net/wiki/SQL_Tutorial
 - https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data
 - https://www.youtube.com/watch?v=X1X1UdaC_90
-- 
