@@ -16,15 +16,20 @@
 - GNU Privacy Guard (gpg) is a specific implementation of PGP and is open-source. gpg is widely used, by example, in the development of the Linux kernel.
 
 ## a) Install OpenSSH server, connect to it using 'ssh' client
+- I start with installing ssh with command sudo apt-get install ssh. After having installed ssh, I checked its status and that it is active.
 <img width="1022" height="905" alt="image" src="https://github.com/user-attachments/assets/18728e78-b97e-4c5f-aba1-12d4d1350613" />
 
 <img width="902" height="365" alt="image" src="https://github.com/user-attachments/assets/e558ee44-7d31-4174-82b5-e9e0c4eff0e1" />
 
+- After having installed and checked the status of ssh, I started it with the command sudo systemctl start ssh and then connected to the localhost.
+- In the end I checked again the status of ssh and whether it was active.
 <img width="1230" height="785" alt="image" src="https://github.com/user-attachments/assets/207ad81c-1977-41d1-9917-aec804307df9" />
 
 ## b) Automate SSH connection using public keys
+- Started with generating a public key for myself with the command ssh-keygen.
 <img width="787" height="397" alt="image" src="https://github.com/user-attachments/assets/d98b4e27-464d-42dd-ac47-02e216431eb7" />
 
+- 
 <img width="1177" height="423" alt="image" src="https://github.com/user-attachments/assets/f322bb5c-8bd1-4c5f-af26-612f8a5326dd" />
 
 ## c) Password manager
