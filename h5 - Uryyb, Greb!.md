@@ -1,8 +1,19 @@
 # h5 - Uryyb, Greb!
 
 ## € Schneier 2015: Applied Cryptography: Chapter 1: Foundations
+- The goals of cryptography are privacy, integrity, authentication, and non-repudiation.
+- Plaintext means the original information or data in human-readable form.
+- Ciphertext means the nonhuman-readable form of the output from applying a cryptographic algorithm to the original data.
+- Algorithm means the mathematical method (cipher) for encrypting and decrypting the data.
+- Key means the secret parameter (for example, number or string) that specifies how the algorithm operates.
+- Cryptosystem means the algorithm, key, and key management processes.
 
 ## Karvinen 2023: PGP - Send Encrypted and Signed Message - gpg
+- The purpose of encryption is confidentiality. The purpose of signing is authenticity and integrity. Encryption and signing both rely on public/private key pairs.
+- Each user first creates their own keypair, public key, which they share with others, and private key, which is considered secret.
+- To export and import keys, users share their public keys via files of ASCII-armored text. Once the public key has been imported, it becomes available for encryption or verification.
+- After importing a public key from a user, the user must establish trust by verifying and signing the public key of the other user.
+- GNU Privacy Guard (gpg) is a specific implementation of PGP and is open-source. gpg is widely used, by example, in the development of the Linux kernel.
 
 ## a) Install OpenSSH server, connect to it using 'ssh' client
 <img width="1022" height="905" alt="image" src="https://github.com/user-attachments/assets/18728e78-b97e-4c5f-aba1-12d4d1350613" />
@@ -17,6 +28,17 @@
 <img width="1177" height="423" alt="image" src="https://github.com/user-attachments/assets/f322bb5c-8bd1-4c5f-af26-612f8a5326dd" />
 
 ## c) Password manager
+<img width="1367" height="873" alt="image" src="https://github.com/user-attachments/assets/a66a5a1d-b0e1-493e-be45-03fa6ca1c984" />
+
+<img width="801" height="602" alt="image" src="https://github.com/user-attachments/assets/c10635ab-fe37-4f67-b8cc-6f97a901f41f" />
+
+<img width="390" height="302" alt="image" src="https://github.com/user-attachments/assets/dd3e5e5f-e04d-4ac5-b5fc-0c35d47a37bf" />
+
+<img width="742" height="350" alt="image" src="https://github.com/user-attachments/assets/f7fbf3c3-c305-4527-a03c-543145de618c" />
+
+<img width="482" height="296" alt="image" src="https://github.com/user-attachments/assets/4b511663-041c-43fb-af44-a447ac63c32b" />
+
+<img width="378" height="60" alt="image" src="https://github.com/user-attachments/assets/27273110-db3a-4cfd-a158-9e4f5076d969" />
 
 
 ## s) Alternative (ETAOIN)
@@ -107,5 +129,7 @@ And now I'm ready to make the final guess about the whole text which would be:
 - https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-debian-11
 - https://wiki.debian.org/PasswordManagement
 - https://www.oreilly.com/library/view/applied-cryptography-protocols/9781119096726/08_chap01.html#chap01-sec006
+- https://www.passwordstore.org/
+- https://ryan.himmelwright.net/post/setting-up-pass/
 - https://terokarvinen.com/2023/pgp-encrypt-sign-verify/
 - https://terokarvinen.com/information-security/
