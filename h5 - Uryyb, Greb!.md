@@ -20,6 +20,49 @@
 
 
 ## s) Alternative (ETAOIN)
+HDMH'B TH. KWU'YI AWR WSSTOTMJJK M OWQINYIMLIY! MB KWU BII, BTGPJI BUNBHTHUHTWA OTPDIYB OMA NI NYWLIA RTHD SYIEUIAOK MAMJKBTB. BII KWU MH DHHP://HIYWLMYCTAIA.OWG        
+I presume DHHP://HIYWLMYCTAIA.OWG is a link and from which I can presume these letters:
+-  D = H
+-  H = T
+-  P = P
+-  O = C
+-  W = O
+-  G = M
+        
+Now the text is:          
+THMT'B TT. KOU'YI ACR OSSTCTMJJK M COQINYIMLIY! MB KOU BII, BTMPJI BUNBTTUHTOA CTPHIYB CMA NI NYOLIA RTTH SYIEUIACK MAMJKBTB. BII KOU MT HTTP://TIYOLMYCTAIA.COM
+              
+Now I guess that KOU'YI means you're so now all the changed letters are:
+-  D = H
+-  H = T
+-  P = P
+-  O = C
+-  W = O
+-  G = M
+-  K = Y
+-  U = U
+-  Y = R
+-  I = E
+            
+I'd also have to guess now that THMT'B TT is THAT'S IT which would mean following changes from the original text:
+B = S
+D = H
+G = M
+H = T
+I = E
+K = Y
+M = A
+O = C
+P = P
+T = I
+U = U
+W = O
+Y = R
+
+HDMH'B TH. KWU'YI AWR WSSTOTMJJK M OWQINYIMLIY! MB KWU BII, BTGPJI BUNBHTHUHTWA OTPDIYB OMA NI NYWLIA RTHD SYIEUIAOK MAMJKBTB. BII KWU MH DHHP://HIYWLMYCTAIA.OWG
+THAT'S IT. YOU'RE AOR OSSICIAJJY A COQENREALER! AS YOU SEE, SIMPJE SUNSTITUTIOA CIPHERS CAA NE NROLEA RITH SREEUEACY AAAJYSIB. SEE YOU AT HTTP://TEROLARCIAEA.COM
+
+-
 
 ## t) Voluntary bonus, easy
 
