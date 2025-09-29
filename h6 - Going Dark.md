@@ -45,7 +45,7 @@
    - Traffic analysis
    - Exploit web browser (Malware injection)
    - User error (Generally breaking anonymity by identification)
-- They work with ISPs and host companies.
+- Investigators work with ISPs and host companies.
 - Tor is not perfect, and like previously mentioned, user error will break anonymity.
 - Law enforcement employs a "digital forensics" and "digital intelligence" strategy to identify users.
 
