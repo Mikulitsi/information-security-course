@@ -51,13 +51,24 @@
 
 ## Tor
 
+I started installing Tor with command `sudo apt-get install torbrowser-launcher` though first I got an error message. I could fix this with running command `sudo nano /etc/apt/sources.list` to see the repository list, then I added the word `contrib` to every line that did not start with `#` and that helped to fix the issue once I ran the command `sudo apt-get install torbrowser-launcher` again. After the install was finished, I ran the command `torbrowser-launcher` and as can be seen from the screenshot below, it starting downloading Tor Browser for the first time.
+
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/56f847dd-c539-41f3-b22b-621ffda5b274" />
 
+After it finished downloading, Tor Browser opened like seen in the screenshot below and that was all with the installation process
+
 <img width="1387" height="890" alt="image" src="https://github.com/user-attachments/assets/10ba33e0-cca7-4300-b7b4-793ae9e8f934" />
+
+As you can see the search engine used by Tor is `DuckDuckGo` and it gives an option to onionize the search to give more privacy. 
+
+In the class then we got to know from our teacher Tero about a search engine for Tor, which has an onion available, named `Ahmia`. As it says in the screenshot below, Ahmia searches hidden services on the Tor network and has some content filtering to filter abusive content.
 
 <img width="1276" height="815" alt="image" src="https://github.com/user-attachments/assets/a2cf9a23-f3aa-4170-a9b9-705912918860" />
 
 <img width="1273" height="733" alt="image" src="https://github.com/user-attachments/assets/449daf1e-de4d-402c-a257-87a2261d8c50" />
+
+
+For marketplace I just searched marketplace on Ahmia and from that I found this marketplace called `Anonymous Marketplace`. Never heard of this before and I have no idea if this is just a spoofed website of some real marketplace but some of the things here seem too good to be true and for me rings bell that this might be a scam website alltogether even though as you will see from the screenshots below, it does have a review section but there's no way for me to know those are actually real reviews...
 
 <img width="1377" height="820" alt="image" src="https://github.com/user-attachments/assets/8229ed5a-9dca-4d65-85bf-7716504e230d" />
 
@@ -67,11 +78,19 @@
 
 <img width="1387" height="783" alt="image" src="https://github.com/user-attachments/assets/e4a75cca-3401-4585-a77d-e00ceb4cb2cf" />
 
+
+
+Forums were harder to find but I eventually found from Ahmia this `Hacker forums` website which seems to list all available and closed forums and communities in Tor.
+
 <img width="853" height="312" alt="image" src="https://github.com/user-attachments/assets/9144e565-97dd-470e-bae7-18681037c045" />
 
 <img width="453" height="672" alt="image" src="https://github.com/user-attachments/assets/ccd5f3d1-3ec6-44df-b6a5-4d732f3c13ec" />
 
 <img width="456" height="667" alt="image" src="https://github.com/user-attachments/assets/97ed0fb6-d4ca-46e0-b3a7-585cb0a73951" />
+
+
+
+From that list I picked a forum called `NulledBB`. It seems to have all kinds of stuff in its forums. I could have also used it as my marketplace section seeing that it has its own marketplace. Don't really know what to think about this forum.
 
 <img width="1918" height="922" alt="image" src="https://github.com/user-attachments/assets/e7a30b21-6116-46d8-a6a4-492c635f536d" />
 
@@ -84,6 +103,9 @@
 <img width="978" height="546" alt="image" src="https://github.com/user-attachments/assets/4a6d67c6-8a48-4560-8cb0-847aff54b08b" />
 
 <img width="1325" height="487" alt="image" src="https://github.com/user-attachments/assets/32589229-56f5-4496-ba8f-3f28edae0092" />
+
+
+And lastly for my big organization pick, I chose DW aka `Deutsche Welle`. It is a big German state-funded network broadcaster proving news from all over the world.
 
 <img width="1918" height="922" alt="image" src="https://github.com/user-attachments/assets/d958edbb-f0b8-4b2f-8ae1-e8bb57336b86" />
 
